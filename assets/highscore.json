@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Bridget",
+    "score": 2856
+  },
+  {
+    "position": 2,
+    "name": "John",
+    "score": 1953
+  },
+  {
+    "position": 3,
+    "name": "Kirsten",
+    "score": 1542
+  },
+  {
+    "position": 4,
+    "name": "Tom",
+    "score": 1387
+  },
+  {
+    "position": 5,
+    "name": "Spongebob",
+    "score": 1129
+  },
+  {
+    "position": 6,
+    "name": "Harry",
+    "score": 855
+  },
+  {
+    "position": 7,
+    "name": "Ben",
+    "score": 675
+  },
+  {
+    "position": 8,
+    "name": "Houdini",
+    "score": 420
+  },
+  {
+    "position": 9,
+    "name": "Diana",
+    "score": 110
+  },
+  {
+    "position": 10,
+    "name": "Rupert",
+    "score": 65
+  }
+]
